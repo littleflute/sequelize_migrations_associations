@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "group6db",
-    "database": "g6db",
+    "database": "db6",
     "host":  "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
@@ -10,14 +10,14 @@
   "test": {
     "username": "root",
     "password": "group6db",
-    "database": "g6db",
+    "database": "db5",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql" 
   },
   "production": {
     "username": "root",
     "password": "group6db",
-    "database": "g6db",
+    "database": "db5",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
