@@ -8,4 +8,4 @@ module.exports = (sequelize, DataTypes) => {
     Shop.hasMany(models.Coffee);
   };
   return Shop;
-};
+}; 

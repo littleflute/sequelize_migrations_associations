@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "sequelize_migrations",
-    "host": "127.0.0.1",
+    "password": "group6db",
+    "database": "g6db",
+    "host":  "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "test": {
     "username": "root",
-    "password": null,
-    "database": "database_test",
+    "password": "group6db",
+    "database": "g6db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": null,
-    "database": "database_production",
+    "password": "group6db",
+    "database": "g6db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
