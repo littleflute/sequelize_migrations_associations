@@ -1,6 +1,6 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  var Shop = sequelize.define('Shop', {
+  var Shop = sequelize.define('shop', {
     name: DataTypes.STRING
   }, {});
   Shop.associate = function(models) {
