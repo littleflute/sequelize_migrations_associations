@@ -51,7 +51,7 @@ app.post('/coffee/:shop_id', (req, res) => {
 		.then(() => res.redirect('/'));
 });
 
-app.listen(5000, () => console.log('Listening on port 5000'));
+app.listen(3000, () => console.log('Listening on port 3000'));
 
 
 
